@@ -1,0 +1,15 @@
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\bin\Debug\prjWinCsOrderAccessoriesApp.exe.config
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\bin\Debug\prjWinCsOrderAccessoriesApp.exe
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\bin\Debug\prjWinCsOrderAccessoriesApp.pdb
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\bin\Debug\EntityFramework.dll
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\bin\Debug\EntityFramework.xml
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.csproj.AssemblyReference.cache
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.Form1.resources
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.Properties.Resources.resources
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.csproj.GenerateResource.cache
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.csproj.CoreCompileInputs.cache
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.csproj.CopyComplete
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.exe
+C:\Users\NISARG-PC\source\repos\prjWinCsOrderAccessoriesApp\prjWinCsOrderAccessoriesApp\obj\Debug\prjWinCsOrderAccessoriesApp.pdb
